@@ -9,4 +9,4 @@ consider responsiveness with every section created because usually, I would work
 * Stacking tables instead of using divs to create new sections
 
 # Demo
-🕹 [Instacart Email Template]([https://bubblegumloco.github.io/instacart/])
+🕹 [Instacart Email Template](https://bubblegumloco.github.io/instacart/)
